@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>nek-space</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #fdfcf9;
+      color: #1a1a1a;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    .wrapper {
+      max-width: 700px;
+      margin: auto;
+    }
+    h1 {
+      font-size: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <h1>Добре дошъл/дошла в nek-space</h1>
+    <p>Това не е книга. Това е не-книга. Това е живо пространство, което се променя с всяка твоя мисъл, дума, крачка.</p>
+    <p>Започваме от мястото, в което вече си пристигнал/а, но още не си разбрал/а, че си тук.</p>
+  </div>
+</body>
+</html>
